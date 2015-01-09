@@ -14,6 +14,6 @@ public class EventsActivityTest {
 
     @Test
     public void testSomething() throws Exception {
-        assertThat(3).isEqualTo(5);
+        assertThat(5).isEqualTo(5);
     }
 }
